@@ -73,3 +73,8 @@ This repository is a complementary dataset built on top of ESCI and ESCI-S:
 - ESCI: Reddy et al., Shopping Queries Dataset: A Large-Scale ESCI Benchmark for Improving Product Search, arXiv:2206.06588 (2022).
 - ESCI dataset release: Amazon Science, `amazon-science/esci-data`.
 - ESCI-S metadata augmentation: `shuttie/esci-s`.
+
+
+## License
+
+This project is licensed under the Apache-2.0 License.
